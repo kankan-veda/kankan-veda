@@ -24,7 +24,7 @@
 
 ## About
 
-这里可以放一段你自己的介绍。可以写你正在学习的方向、喜欢解决的问题，或者一句你想留在主页上的话。
+喜欢渡鸦但养不起。。。
 
 ## Interests
 
@@ -42,11 +42,6 @@
 Python · FastAPI · LangGraph · RAG · Docker · Linux
 ```
 
-## Projects
-
-<!-- 在这里添加你的项目链接，例如：
-- [项目名称](项目链接) - 一句话介绍
--->
 
 ## Currently
 
