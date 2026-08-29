@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="blue and white abstract banner" width="100%" />
+  <img src="./assets/siki.jpg" alt="blue and white abstract banner" width="100%" />
 </div>
 
 <h1 align="left">🌊 Hi~我是衎衎，你好呀</h1>
